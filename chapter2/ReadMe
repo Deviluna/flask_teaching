@@ -1,3 +1,6 @@
 Chapter.2 talks about flask's struct.
 section.1 initialization
-section.2 route and 
+section.2 functions of route and view
+section.3 start server
+section.4 a complete programme
+section.5 request and response
