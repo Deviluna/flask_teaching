@@ -1,0 +1,5 @@
+chapter.3 Template
+
+section.1 using Jinja2 to render templates
+section.2 using Flask-Bootstrap to integrate Twitter Bootstrap
+section.3 something else

@@ -1,0 +1,14 @@
+<title>Stock Analysis</title>
+
+<h1>{{ id }}</h1>
+
+<!--import macros from 600477.html-->
+{% import '600477.html' as macros %}
+
+<!--conditional statements-->
+{% if id=='600477' %}
+    <p>it is a very bad stock.Don't buy it,love and peace every day.</p>
+    {{ macros.show_600477() }}
+{% else %}
+    <p>that's good♂</p>
+{% endif %}
